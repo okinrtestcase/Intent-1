@@ -11,7 +11,7 @@ def main():
     id_test = modul.id_test()
 
     # report name
-    report_filename = "Test Intent Bank Jakarta - Part 04"
+    report_filename = "Test Intent Bank Jakarta - Part 05"
     # Logging
     modul.setup_logging(report_filename, id_test)
 
@@ -42,8 +42,8 @@ def main():
     url = "https://chat.botika.online/TF00WgP" # Bank DKI Dev
 
     """ Filename Assets """
-    csv_file  = "bankjakarta-04"
-    json_file = "bankjakarta-04"
+    csv_file  = "bankjakarta-05"
+    json_file = "bankjakarta-05"
     
 
     """ Detail of test """
