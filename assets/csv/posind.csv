@@ -1,0 +1,9 @@
+parent_id,id,respond,Freetext,intent_name,sample_text1,sample_text2,sample_text3
+7,Domestik,"Ok, Vida kasih tahu beberapa informasi seputar produk PosIND untuk Kamu ya.
+
+Berikut ini adalah informasi mengenai Domestik PosIND
+[carousel button] Pos Sameday
+[carousel button] Pos Nextday
+[carousel button] Pos Reguler
+[carousel button] Pos Jumbo
+[carousel button] Pos Ekonomi",,usr.pos_domestik,produk domestik pos indonesia,informasi produk domestik pos indonesia,produk pengiriman domestik yang tersedia
