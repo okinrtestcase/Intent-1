@@ -42,8 +42,8 @@ def main():
     url = "https://chat.botika.online/TF00WgP" # Bank DKI Dev
 
     """ Filename Assets """
-    csv_file  = "bankjakarta-02"
-    json_file = "bankjakarta-02"
+    csv_file  = "bankjakarta-03"
+    json_file = "bankjakarta-03"
     
 
     """ Detail of test """
